@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon14, part of koffice: http://www.koffice.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="19.2pt"
+   height="19.2pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="akonadi.svg">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="9.8333335"
+     inkscape:cx="39.180667"
+     inkscape:cy="12.921221"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="akonadi"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2996"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="defitem24"
+       gradientUnits="userSpaceOnUse"
+       x1="11.688529"
+       y1="14.762678"
+       x2="11.638413"
+       y2="-1.3004688"
+       spreadMethod="pad"
+       gradientTransform="scale(1.1757109,0.85054921)">
+      <stop
+         stop-color="#acacac"
+         offset="0.0159363"
+         stop-opacity="1"
+         id="stop7" />
+      <stop
+         stop-color="#ececec"
+         offset="1"
+         stop-opacity="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="defitem25"
+       gradientUnits="userSpaceOnUse"
+       x1="7.1282614"
+       y1="14.762678"
+       x2="7.0280298"
+       y2="-1.2290767"
+       spreadMethod="pad"
+       gradientTransform="scale(1.1757109,0.85054921)">
+      <stop
+         stop-color="#ababab"
+         offset="0"
+         stop-opacity="1"
+         id="stop12" />
+      <stop
+         stop-color="#ededed"
+         offset="1"
+         stop-opacity="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="defitem26"
+       gradientUnits="userSpaceOnUse"
+       x1="3.7757336"
+       y1="-2.9083563"
+       x2="3.7300323"
+       y2="8.5192786"
+       spreadMethod="pad"
+       gradientTransform="scale(1.9538292,0.51181546)">
+      <stop
+         stop-color="#b6b6b6"
+         offset="0"
+         stop-opacity="1"
+         id="stop17" />
+      <stop
+         stop-color="#ffffff"
+         offset="1"
+         stop-opacity="1"
+         id="stop19" />
+    </linearGradient>
+  </defs>
+  <g
+     id="akonadi"
+     transform="scale(1.2172567,1.2227269)">
+    <g
+       id="defitem23"
+       transform="translate(2.24113,2.80851)"
+       style="fill:none">
+      <rect
+         id="rect25"
+         transform="translate(-2.24113,-2.80851)"
+         width="19.659626"
+         height="19.633375"
+         x="0"
+         y="0"
+         style="fill:none" />
+      <path
+         style="fill:#a1b4ba;fill-opacity:1;stroke:none;opacity:0.1"
+         d="m 7.5947487,-0.89416575 -7.25396057,2.17487635 0,11.5993404 7.25396057,2.174876 7.2539603,-2.174876 0,-11.5993404 z"
+         id="path3013"
+         inkscape:connector-curvature="0" />
+      <g
+         id="layers"
+         transform="matrix(0.41218261,0,0,0.5178277,1.0002391,-0.16920697)"
+         style="fill:#f2f2f2">
+        <g
+           id="g6"
+           style="fill:#f2f2f2">
+          <polygon
+             style="fill:#4e9fac;fill-opacity:1"
+             points="16,24 31.998,20 31.998,24 16,28 0,24 0,20 "
+             id="polygon8" />
+          <polygon
+             style="fill:#4e9fac;fill-opacity:1"
+             points="16,16 31.998,12 31.998,16 16,20 0,16 0,12 "
+             id="polygon10" />
+          <polygon
+             style="fill:#4e51ac;fill-opacity:1"
+             points="16,0 31.998,4 31.998,8 16,12 0,8 0,4 "
+             id="polygon12" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

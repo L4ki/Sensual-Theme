@@ -43,8 +43,9 @@
      inkscape:lockguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid831" />
-  </sodipodi:namedview>
+       id="grid831"
+     originx="-10"
+     originy="-10" /></sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>

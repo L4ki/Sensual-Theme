@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -138,9 +136,9 @@
      inkscape:window-height="1017"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="5.3636364"
-     inkscape:cx="58.438797"
-     inkscape:cy="7.9534688"
+     inkscape:zoom="3.7926637"
+     inkscape:cx="81.056225"
+     inkscape:cy="9.9554386"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -206,15 +204,16 @@
        style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none" />
     <path
        inkscape:connector-curvature="0"
-       d="m 83,4 c -0.554,0 -1,0.4894 -1,1.0938 l 0,9.8122 C 82,15.511 82.446,16 83,16 l 14,0 c 0.554,0 1,-0.489 1,-1.094 L 98,5.0938 C 98,4.4894 97.554,4 97,4 L 83,4 Z m 1,2 12,0 0,8 -12,0 0,-8 z m 3,11 0,1 -2,0 0,2 10,0 0,-2 -2,0 0,-1 -6,0 z"
+       d="M 83,4 C 82.446,4 82,4.4894 82,5.0938 V 14.906 C 82,15.511 82.446,16 83,16 h 14 c 0.554,0 1,-0.489 1,-1.094 V 5.0938 C 98,4.4894 97.554,4 97,4 Z m 0,1 H 97 V 15 H 83 Z m 4,12 v 1 h -2 v 2 h 10 v -2 h -2 v -1 z"
        style="fill:#a1b4ba;fill-opacity:1"
-       id="rect2722" />
+       id="rect2722"
+       sodipodi:nodetypes="ssssssssscccccccccccccc" />
     <path
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path11753"
        style="color:#bebebe;fill:#4e9fac;fill-opacity:1"
-       d="m 84,6 v 8 h 7.898305 z M 85.01166,7.9864148 90,13 87.848071,10.725873 Z" />
+       d="m 83,5 v 10 h 9 z M 85.01166,7.9864148 90,13 87.848071,10.725873 Z" />
   </g>
   <g
      id="preferences-system-bluetooth"

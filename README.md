@@ -12,4 +12,5 @@ Changelog: 13.05.2020.
 ----------------------
 
 Modified icon in Plalasma Theme: preferences.svg
+
 Added icon to Plasma Theme: disk.svg

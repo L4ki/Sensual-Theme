@@ -11,6 +11,13 @@ keyboard.svg, printer.svg
 Changelog: 13.05.2020.
 ----------------------
 
-Modified icon in Plalasma Theme: preferences.svg
+Modified icon in Plasma Theme: preferences.svg
 
 Added icon to Plasma Theme: disk.svg
+
+Changelog: 28.05.2020.
+----------------------
+
+Added icon: TeamViewer.svg
+
+Modified widget: busywidget.svg

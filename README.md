@@ -32,4 +32,5 @@ Changelog: 24.06.2020.
 ---------------------
 
 Icon correction: window.svg
+
 Widget correction: checkmarks.svg

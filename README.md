@@ -27,3 +27,9 @@ Changelog:14.06.2020.
 GTK-3 Theme "SEnsual-Breeze"
 
 Customized for KDE Plasma 5.19
+
+Changelog: 24.06.2020.
+---------------------
+
+Icon correction: window.svg
+Widget correction: checkmarks.svg

@@ -34,3 +34,8 @@ Changelog: 24.06.2020.
 Icon correction: window.svg
 
 Widget correction: checkmarks.svg
+
+Changelog: 11.07.2020.
+---------------------
+
+Correction widgets: viewitem.svg, tasks.svg, plasmoidheading.svg

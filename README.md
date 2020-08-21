@@ -39,3 +39,21 @@ Changelog: 11.07.2020.
 ---------------------
 
 Correction widgets: viewitem.svg, tasks.svg, plasmoidheading.svg
+
+Changelog: 21.08.2020.
+----------------------
+
+Plasma Theme
+-------------
+
+Widget correction: viewitem.svg
+
+Icons
+-----
+
+Correction of icons in the action folder
+
+GTK-3 Theme
+-----------
+
+Gtkrc file correction

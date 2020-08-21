@@ -3,7 +3,13 @@ ActiveTextColor=255,255,255,255
 InactiveTextColor=78,81,172,255
 TitleAlignment=Center
 TitleVerticalAlignment=Center
-Animation=200
+UseTextShadow=true
+ActiveTextShadowColor=0,0,0,255
+InactiveTextShadowColor=40,40,40,255
+TextShadowOffsetX=0             
+TextShadowOffsetY=1 
+Shadow=false
+Animation=0
 
 
 [Layout]
@@ -19,7 +25,7 @@ TitleBorderRight=3
 TitleHeight=33
 ButtonWidth=20
 ButtonHeight=19
-ButtonSpacing=4
+ButtonSpacing=10
 ButtonMarginTop=6
 PaddingTop=2
 PaddingBottom=4

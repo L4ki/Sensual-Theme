@@ -57,3 +57,11 @@ GTK-3 Theme
 -----------
 
 Gtkrc file correction
+
+Changelog: 30.08.2020.
+----------------------
+
+Plasma Theme
+-------------
+
+Icon correction: akregator.svg

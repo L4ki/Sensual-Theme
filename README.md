@@ -65,3 +65,21 @@ Plasma Theme
 -------------
 
 Icon correction: akregator.svg
+
+Changelog: 25.09.2020.
+----------------------
+
+Plasma Theme
+-------------
+
+Fixed widgets: tabbar.svg, clock.svg
+
+GTK-3 Theme
+------------
+
+Correction of gtk.css file
+
+Icons
+------
+
+Add icons (apps folders 16 and 48)

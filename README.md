@@ -91,3 +91,10 @@ Plasma Theme
 ------------
 
 Fixed busywidget.svg
+
+GTK-3 Theme
+------------
+
+Correction toolbutton-toggled.png
+
+Correction of gtkrc file

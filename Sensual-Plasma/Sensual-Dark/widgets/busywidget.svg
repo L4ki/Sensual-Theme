@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="busywidget.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="SVGRoot"
    version="1.1"
    viewBox="0 0 20 20"
@@ -45,7 +45,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1017"
+     inkscape:window-height="1022"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="layer1"
@@ -86,7 +86,8 @@
              inkscape:connector-curvature="0"
              style="fill:url(#linearGradient857);fill-opacity:1"
              id="path4"
-             d="M 500,10 C 229.4,10 10,229.4 10,500 10,770.6 229.4,990 500,990 770.6,990 990,770.6 990,500 990,229.4 770.6,10 500,10 Z m 0,903.4 C 271.7,913.4 86.6,728.3 86.6,500 86.6,271.7 271.7,86.6 500,86.6 728.3,86.6 913.4,271.7 913.4,500 913.4,728.3 728.3,913.4 500,913.4 Z" />
+             d="M 500,10 C 229.4,10 10,229.4 10,500 10,770.6 229.4,990 500,990 770.6,990 990,770.6 990,500 990,229.4 770.6,10 500,10 Z m 0,940.1269 c -118.64136,0 -247.79984,-59.90659 -332.72539,-149.49639 C 88.779058,717.82384 49.858359,609.65864 49.858359,500 c 0,-120.68506 51.446121,-239.5609 145.223751,-324.81557 83.62157,-76.021633 203.41258,-125.310066 311.02752,-125.310066 120.0185,0 248.84109,61.305066 332.40376,152.627436 75.3908,82.39165 111.65875,189.2167 111.65875,297.4982 0,110.83411 -40.05531,220.14259 -119.98875,303.28463 C 745.46711,891.4015 617.46589,950.1269 500,950.1269 Z"
+             sodipodi:nodetypes="ssssssssssssss" />
           <path
              inkscape:connector-curvature="0"
              style="fill:#4e9fac;fill-opacity:1"

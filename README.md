@@ -83,3 +83,11 @@ Icons
 ------
 
 Add icons (apps folders 16 and 48)
+
+Changelog: 06.11.2020.
+---------------------
+
+Plasma Theme
+------------
+
+Fixed busywidget.svg

@@ -98,3 +98,22 @@ GTK-3 Theme
 Correction toolbutton-toggled.png
 
 Correction of gtkrc file
+
+Changelog 30.11.2020.
+---------------------
+
+Plasma Theme
+-------------
+
+Fixed widgets: button.svg,clock.svg, tasks.svg
+
+Icons
+-----
+
+Added icons: mpd.svg, onlyoffice-desktopeditors.svg, onlyoffice.svg
+
+GTK-3 Theme
+-----------
+
+Correction of gtkrc file
+

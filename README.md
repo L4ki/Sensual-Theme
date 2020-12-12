@@ -117,3 +117,11 @@ GTK-3 Theme
 
 Correction of gtkrc file
 
+Changelog: 12.12.2020.
+______________________
+
+Plasma Theme
+------------
+
+Fixed widget: button.svg
+

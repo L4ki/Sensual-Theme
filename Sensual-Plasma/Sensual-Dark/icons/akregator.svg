@@ -7,13 +7,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg"
+   width="32"
+   height="32"
    version="1.1"
-   width="100%"
-   height="100%"
+   id="svg12"
    sodipodi:docname="akregator.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,49 +36,53 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview9"
+     inkscape:window-height="1009"
+     id="namedview14"
      showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-5.7330506"
-     inkscape:cy="11"
+     inkscape:zoom="9.8125"
+     inkscape:cx="24.230986"
+     inkscape:cy="18.71574"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
-  <defs
-     id="defs81">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-</style>
-  </defs>
-  <metadata
-     id="metadata34">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid857"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
   <g
-     id="akregator"
-     transform="translate(0,-2)">
+     id="akregator">
     <rect
-       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none"
-       id="rect3009"
-       width="22"
-       height="22"
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
        x="0"
-       y="2" />
+       y="0"
+       id="rect7" />
     <path
        id="path120"
-       style="color:#7b7c7e;fill:#4e9fac;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 16.610382,9.7814 C 17.929987,9.7814 19,8.71 19,7.389699 19,6.0721 17.929987,5 16.610382,5 15.290797,5 14.220785,6.0721 14.220785,7.389699 14.220785,8.71 15.290797,9.7814 16.610382,9.7814 Z M 19,16.0152 V 13.52 C 14.294425,13.52 10.4803,9.7059 10.4803,5 H 7.987738 c 0,6.082099 4.930388,11.0152 11.012262,11.0152 z M 19,21 V 18.508 C 11.541196,18.508 5.492563,12.4611 5.492563,5 H 3 c 0,8.8381 7.164245,16 16,16"
+       style="color:#7b7c7e;fill:#4e9fac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.375"
+       d="M 20.42557,23.714283 C 20.42557,25.528727 21.89876,27 23.714157,27 25.525856,27 27,25.528727 27,23.714283 c 0,-1.814445 -1.474144,-3.285697 -3.285843,-3.285697 -1.815397,0 -3.288587,1.471252 -3.288587,3.285697 z M 11.8541,27 H 15.285 C 15.285,20.52983 20.52938,15.285421 27,15.285421 V 11.858135 C 18.637121,11.858135 11.8541,18.637423 11.8541,27 Z M 5,27 H 8.4265 C 8.4265,16.744137 16.74098,8.4272745 27,8.4272745 V 5 C 14.84762,5 5,14.850846 5,27"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="22-22-akregator">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="32"
+       y="10.000003"
+       id="rect2" />
+    <path
+       id="path120-3"
+       style="color:#7b7c7e;fill:#4e9fac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+       d="m 46.218599,26.61039 c 0,1.319596 1.071403,2.389613 2.391701,2.389613 1.317599,0 2.3897,-1.070017 2.3897,-2.389613 0,-1.319596 -1.072101,-2.389597 -2.3897,-2.389597 -1.320298,0 -2.391701,1.070001 -2.391701,2.389597 z m -6.2338,2.389613 H 42.48 c 0,-4.705578 3.8141,-8.519698 8.52,-8.519698 v -2.492564 c -6.082099,0 -11.015201,4.930387 -11.015201,11.012262 z m -4.984799,0 h 2.492 c 0,-7.458809 6.0469,-13.50744 13.508,-13.50744 v -2.49256 c -8.8381,0 -16,7.164249 -16,16"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0" />
   </g>

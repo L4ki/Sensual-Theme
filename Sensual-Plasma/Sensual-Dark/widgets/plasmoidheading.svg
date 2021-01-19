@@ -11,7 +11,7 @@
    viewBox="0 0 173 56.000004"
    version="1.1"
    sodipodi:docname="plasmoidheading.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata43">
     <rdf:RDF>
@@ -35,7 +35,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1009"
      id="namedview39"
      showgrid="false"
      inkscape:zoom="2.9606035"
@@ -54,7 +54,7 @@
      id="hint-stretch-borders"
      d="m-7-7h5v5h-5z"
      opacity=".6"
-     style="fill:#151928;fill-opacity:1;opacity:1" />
+     style="fill:#020303;fill-opacity:1;opacity:1" />
   <path
      id="header-center"
      class="ColorScheme-Background"
@@ -85,7 +85,7 @@
        id="rect3154"
        class="ColorScheme-Text"
        d="m 51,49 v 1 H 19 v -1 z"
-       style="color:#232629;opacity:1;fill:#0d0f1a;fill-opacity:1"
+       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <path
@@ -106,7 +106,7 @@
        id="path3178"
        class="ColorScheme-Text"
        d="m 57,49 h -6 v 1 h 6 c 0,-1 -2e-5,0 0,-1 z"
-       style="color:#232629;opacity:1;fill:#0d0f1a;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -121,7 +121,7 @@
        id="path3184"
        class="ColorScheme-Text"
        d="m 19,50 v -1 h -4 l -2,-2e-5 v 1 L 15,50 h 1 z"
-       style="color:#232629;opacity:1;fill:#0d0f1a;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <path
@@ -166,7 +166,7 @@
        id="rect3154-9"
        class="ColorScheme-Text"
        d="m 99,7.0000038 v -1 H 67 v 1 z"
-       style="color:#232629;opacity:1;fill:#0d0f1a;fill-opacity:1"
+       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <path
@@ -187,7 +187,7 @@
        id="path3178-2"
        class="ColorScheme-Text"
        d="M 105,7 H 99 V 6 h 6 c 0,1 -2e-5,0 0,1 z"
-       style="color:#232629;opacity:1;fill:#0d0f1a;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -202,7 +202,7 @@
        id="path3184-8"
        class="ColorScheme-Text"
        d="m 67,5.9999838 v 1 h -4 l -2,2e-5 v -1 l 2,-2e-5 h 1 z"
-       style="color:#232629;opacity:1;fill:#0d0f1a;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:1;fill:#020203;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
   </g>
   <path

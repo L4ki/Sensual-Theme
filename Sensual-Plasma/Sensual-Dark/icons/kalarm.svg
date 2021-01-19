@@ -11,7 +11,7 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="kalarm.svg">
   <defs
      id="defs8">
@@ -314,18 +314,19 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1012"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="8.1649966"
      inkscape:cx="37.479571"
-     inkscape:cy="5.2003807"
+     inkscape:cy="19.897264"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3738"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -354,16 +355,16 @@
        height="24"
        width="24"
        id="rect2991"
-       style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        id="path3052-2-9"
-       style="color:#000000;opacity:0;fill:none;stroke:#000000;stroke-width:1.60005999;stroke-linejoin:round;stroke-opacity:0"
+       style="color:#000000;opacity:0;fill:none;stroke:#000000;stroke-width:1.60006;stroke-linejoin:round;stroke-opacity:0"
        d="m 18.400378,12.999863 a 6.4002401,6.4002401 0 0 1 -12.80048,0 6.4002401,6.4002401 0 1 1 12.80048,0 z" />
     <path
        inkscape:connector-curvature="0"
        id="path3052-0"
-       style="color:#000000;fill:none;stroke:#a1b4ba;stroke-width:1.60005999;stroke-linejoin:round;stroke-opacity:1"
+       style="color:#000000;fill:none;stroke:#d3dae3;stroke-width:1.60006;stroke-linejoin:round;stroke-opacity:1"
        d="m 18.400378,12.00014 a 6.4002401,6.4002401 0 0 1 -12.80048,0 6.4002401,6.4002401 0 1 1 12.80048,0 z" />
     <g
        id="g5232">
@@ -425,19 +426,19 @@
        height="24"
        width="24"
        id="rect2991-0"
-       style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        id="path3052-2-9-5"
-       style="color:#000000;opacity:0;fill:none;stroke:#000000;stroke-width:1.60005999;stroke-linejoin:round;stroke-opacity:0"
+       style="color:#000000;opacity:0;fill:none;stroke:#000000;stroke-width:1.60006;stroke-linejoin:round;stroke-opacity:0"
        d="m 48.400378,12.999863 a 6.4002401,6.4002401 0 0 1 -12.80048,0 6.4002401,6.4002401 0 1 1 12.80048,0 z" />
     <path
        inkscape:connector-curvature="0"
        id="path3052-0-8"
-       style="color:#000000;fill:none;stroke:#a1b4ba;stroke-width:1.60005999;stroke-linejoin:round;stroke-opacity:1"
+       style="color:#000000;fill:none;stroke:#d3dae3;stroke-width:1.60006;stroke-linejoin:round;stroke-opacity:1"
        d="m 48.400378,12.00014 a 6.4002401,6.4002401 0 0 1 -12.80048,0 6.4002401,6.4002401 0 1 1 12.80048,0 z" />
     <g
-       transform="translate(30,0)"
+       transform="translate(30)"
        id="g5232-6">
       <g
          id="g4939-1-2"
@@ -492,7 +493,7 @@
   </g>
   <g
      id="kalarm-disabled"
-     transform="translate(60,0)"
+     transform="translate(60)"
      style="opacity:0.4">
     <rect
        y="0"
@@ -500,20 +501,19 @@
        height="24"
        width="24"
        id="rect2991-16"
-       style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        id="path3052-2-9-1"
-       style="color:#000000;opacity:0;fill:none;stroke:#000000;stroke-width:1.60005999;stroke-linejoin:round;stroke-opacity:0"
+       style="color:#000000;opacity:0;fill:none;stroke:#000000;stroke-width:1.60006;stroke-linejoin:round;stroke-opacity:0"
        d="m 18.400378,12.999863 a 6.4002401,6.4002401 0 0 1 -12.80048,0 6.4002401,6.4002401 0 1 1 12.80048,0 z" />
     <path
        inkscape:connector-curvature="0"
        id="path3052-0-4"
-       style="color:#000000;fill:none;stroke:#a1b4ba;stroke-width:1.60005999;stroke-linejoin:round;stroke-opacity:1"
+       style="color:#000000;fill:none;stroke:#d3dae3;stroke-width:1.60006;stroke-linejoin:round;stroke-opacity:1"
        d="m 18.400378,12.00014 a 6.4002401,6.4002401 0 0 1 -12.80048,0 6.4002401,6.4002401 0 1 1 12.80048,0 z" />
     <g
-       id="g5232-7"
-       style="">
+       id="g5232-7">
       <g
          id="g4939-1-4"
          style="opacity:0.3"
@@ -531,8 +531,7 @@
       </g>
       <g
          id="g4935-5-2"
-         transform="translate(0,48)"
-         style="">
+         transform="translate(0,48)">
         <path
            inkscape:connector-curvature="0"
            id="rect3809-18-3"
@@ -547,8 +546,7 @@
     </g>
     <g
        transform="translate(0,48)"
-       id="g4929-1-9"
-       style="">
+       id="g4929-1-9">
       <path
          d="m 12.000005,-37.333326 c -0.736267,0 -1.333333,0.597067 -1.333333,1.333333 0,0.736267 0.597066,1.333334 1.333333,1.333334 0.736267,0 1.333334,-0.597067 1.333334,-1.333334 0,-0.736266 -0.597067,-1.333333 -1.333334,-1.333333 z m 0,0.8 c 0.294667,0 0.533333,0.238667 0.533333,0.533333 0,0.294667 -0.238666,0.533334 -0.533333,0.533334 -0.294667,0 -0.533333,-0.238667 -0.533333,-0.533334 0,-0.294666 0.238666,-0.533333 0.533333,-0.533333 z"
          style="color:#000000;fill:#ebebeb;fill-opacity:1"
@@ -566,9 +564,4 @@
        style="color:#000000;opacity:0.25;fill:#5b4eac;fill-opacity:1"
        d="m 17.601106,12.001233 a 5.6000534,5.6000534 0 0 1 -11.2001052,0 5.6000534,5.6000534 0 1 1 11.2001052,0 z" />
   </g>
-  <path
-     d="m 80.402819,27.73408 1.839867,1.839866"
-     style="color:#000000;opacity:0.4;fill:none;stroke:#ebebeb;stroke-width:1.06666672;stroke-linecap:round;stroke-opacity:1"
-     id="path3827-7-5"
-     inkscape:connector-curvature="0" />
 </svg>

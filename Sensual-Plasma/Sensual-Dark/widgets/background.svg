@@ -12,7 +12,7 @@
    height="67"
    id="svg3259"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="background.svg">
   <sodipodi:namedview
      id="base"
@@ -34,7 +34,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -42,7 +42,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -1068,7 +1069,7 @@
      inkscape:label="Capa 1"
      transform="translate(-398,-467.36218)">
     <rect
-       style="fill:#4e9fac;fill-opacity:1;stroke:none;opacity:0.01"
+       style="opacity:0.01;fill:#4e9fac;fill-opacity:1;stroke:none"
        id="hint-stretch-borders"
        width="5"
        height="5"
@@ -1084,7 +1085,7 @@
        inkscape:label="#g4193">
       <path
          inkscape:label="#path7846"
-         style="display:inline;overflow:visible;visibility:visible;fill:#1d61ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.1380899;marker:none;opacity:0.01"
+         style="display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#1d61ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13809;marker:none"
          d="m 354.00006,527.36219 v -2 H 382 v 2 z"
          id="a"
          inkscape:connector-curvature="0" />
@@ -1097,7 +1098,7 @@
          inkscape:connector-curvature="0"
          id="path3126"
          d="m 354.75006,499.11222 v 2 H 382.75 v -2 z"
-         style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#4e9fac;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13809013;marker:none"
+         style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#1f1f47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13809;marker:none"
          inkscape:label="#path7846" />
     </g>
     <g
@@ -1109,7 +1110,7 @@
          height="28"
          width="28"
          id="rect3100"
-         style="fill:#161925;fill-opacity:1;stroke:none;opacity:0.85" />
+         style="opacity:0.85;fill:#161925;fill-opacity:1;stroke:none" />
       <g
          style="fill:url(#linearGradient4267);fill-opacity:1"
          transform="matrix(1,0,0,0.5,0,260.18109)"
@@ -1124,15 +1125,16 @@
       <path
          sodipodi:end="1.5707963"
          sodipodi:start="0"
-         d="m 389.79999,-507.11218 a 7,2 0 0 1 -7,2 l 0,-2 z"
+         d="m 389.79999,-507.11218 a 7,2 0 0 1 -7,2 v -2 z"
          sodipodi:ry="2"
          sodipodi:rx="7"
          sodipodi:cy="-507.11218"
          sodipodi:cx="382.79999"
          id="path4103"
-         style="opacity:1;fill:#4e9fac;fill-opacity:1;stroke:none;stroke-width:0.86147785"
+         style="opacity:1;fill:#1f1f47;fill-opacity:1;stroke:none;stroke-width:0.861478"
          sodipodi:type="arc"
-         transform="scale(1,-1)" />
+         transform="scale(1,-1)"
+         sodipodi:arc-type="slice" />
     </g>
     <g
        transform="matrix(-1,0,0,0.49999539,737.5,247.55845)"
@@ -1142,16 +1144,17 @@
          id="g4135" />
       <path
          sodipodi:type="arc"
-         style="opacity:1;fill:#4e9fac;fill-opacity:1;stroke:none;stroke-width:0.86147767"
+         style="opacity:1;fill:#1f1f47;fill-opacity:1;stroke:none;stroke-width:0.861478"
          id="path4139"
          sodipodi:cx="382.79999"
          sodipodi:cy="-507.11218"
          sodipodi:rx="7"
          sodipodi:ry="2"
-         d="m 389.79999,-507.11218 a 7,2 0 0 1 -7,2 l 0,-2 z"
+         d="m 389.79999,-507.11218 a 7,2 0 0 1 -7,2 v -2 z"
          transform="scale(1,-1)"
          sodipodi:start="0"
-         sodipodi:end="1.5707963" />
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice" />
     </g>
     <g
        id="bottomright"
@@ -1162,34 +1165,36 @@
          id="g4145" />
       <path
          sodipodi:type="arc"
-         style="fill:#1d61ff;fill-opacity:1;stroke:none;stroke-width:0.86147803;opacity:0.01"
+         style="opacity:0.01;fill:#1d61ff;fill-opacity:1;stroke:none;stroke-width:0.861478"
          id="path4149"
          sodipodi:cx="382.79999"
          sodipodi:cy="526.11224"
          sodipodi:rx="7"
          sodipodi:ry="2.0000002"
-         d="m 389.79999,526.11224 a 7,2.0000002 0 0 1 -7,2 l 0,-2 z"
+         d="m 389.79999,526.11224 a 7,2.0000002 0 0 1 -7,2 v -2 z"
          sodipodi:start="0"
-         sodipodi:end="1.5707963" />
+         sodipodi:end="1.5707963"
+         sodipodi:arc-type="slice" />
     </g>
     <g
        id="bottomleft"
        inkscape:label="#g4183">
       <g
          id="g4165"
-         transform="matrix(-1,0,0,-1,735.5,1028.2244)" />
+         transform="rotate(180,367.75,514.1122)" />
       <path
          sodipodi:end="1.5707963"
          sodipodi:start="0"
          transform="scale(-1,1)"
-         d="m -347.00006,525.36218 a 7,2.0000002 0 0 1 -7,2 l 0,-2 z"
+         d="m -347.00006,525.36218 a 7,2.0000002 0 0 1 -7,2 v -2 z"
          sodipodi:ry="2.0000002"
          sodipodi:rx="7"
          sodipodi:cy="525.36218"
          sodipodi:cx="-354.00006"
          id="path4169"
-         style="fill:#1d61ff;fill-opacity:1;stroke:none;stroke-width:0.86147803;opacity:0.01"
-         sodipodi:type="arc" />
+         style="opacity:0.01;fill:#1d61ff;fill-opacity:1;stroke:none;stroke-width:0.861478"
+         sodipodi:type="arc"
+         sodipodi:arc-type="slice" />
     </g>
     <g
        id="left"
@@ -1220,7 +1225,7 @@
          id="g4347"
          transform="matrix(-0.25,0,0,1,552,0)">
         <rect
-           style="fill:#161925;fill-opacity:1;stroke:none;opacity:0.85"
+           style="opacity:0.85;fill:#161925;fill-opacity:1;stroke:none"
            id="rect4349"
            width="28"
            height="28"

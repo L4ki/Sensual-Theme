@@ -13,7 +13,7 @@
    width="100%"
    height="100%"
    sodipodi:docname="touchpad.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1012"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="4.9166667"
@@ -34,13 +34,13 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0" />
   <defs
      id="defs81">
     <style
        id="current-color-scheme"
-       type="text/css">
-</style>
+       type="text/css" />
   </defs>
   <metadata
      id="metadata34">
@@ -64,7 +64,7 @@
        x="0"
        y="0" />
     <path
-       style="color:#7b7c7e;fill:#a1b4ba;fill-opacity:1;stroke:none"
+       style="color:#7b7c7e;fill:#d3dae3;fill-opacity:1;stroke:none"
        d="m 2,3 v 1 9.96875 1 V 20 21 h 1 18 1 V 20 4 3 H 21 3 Z M 3,4 H 21 V 20 H 3 Z"
        id="rect8531"
        class="ColorScheme-Text"
@@ -90,7 +90,7 @@
        class="ColorScheme-Text"
        id="path2996"
        d="m 2,3 v 1 9.96875 1 V 20 21 h 1 18 1 V 20 4 3 H 21 3 Z M 3,4 H 21 V 20 H 3 Z"
-       style="color:#7b7c7e;opacity:0.4;fill:#a1b4ba;fill-opacity:1;stroke:none"
+       style="color:#7b7c7e;opacity:0.4;fill:#d3dae3;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
     <path
        class="ColorScheme-Text"

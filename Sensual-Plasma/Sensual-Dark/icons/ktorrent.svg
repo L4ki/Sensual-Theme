@@ -11,7 +11,7 @@
    height="24"
    id="svg3314"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="ktorrent.svg">
   <defs
      id="defs3316" />
@@ -31,13 +31,14 @@
      inkscape:document-units="px"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3045"
@@ -89,10 +90,10 @@
          style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" />
       <path
          style="fill:#ffffff;fill-opacity:0;stroke:none"
-         d="M 10 3 L 1 12 L 1 14.5 C 1 15.880712 2.1192881 17 3.5 17 L 13 17 L 13 20 L 14 21 L 23 12 L 23 9.5 C 23 8.1192881 21.880712 7 20.5 7 L 11 7 L 11 4 L 10 3 z M 10 4 L 10 8 L 20.5 8 C 21.328427 8 22 8.6715729 22 9.5 C 22 10.328427 21.328427 11 20.5 11 L 3 11 L 10 4 z M 3.5 13 L 21 13 L 14 20 L 14 16 L 3.5 16 C 2.6715729 16 2 15.328427 2 14.5 C 2 13.671573 2.6715729 13 3.5 13 z "
+         d="m 10,3 -9,9 v 2.5 C 1,15.880712 2.1192881,17 3.5,17 H 13 v 3 l 1,1 9,-9 V 9.5 C 23,8.1192881 21.880712,7 20.5,7 H 11 V 4 Z m 0,1 V 8 H 20.5 C 21.328427,8 22,8.6715729 22,9.5 22,10.328427 21.328427,11 20.5,11 H 3 Z M 3.5,13 H 21 l -7,7 V 16 H 3.5 C 2.6715729,16 2,15.328427 2,14.5 2,13.671573 2.6715729,13 3.5,13 Z"
          id="path3012" />
       <path
-         style="fill:#a1b4ba;fill-opacity:1;stroke:none"
+         style="fill:#d3dae3;fill-opacity:1;stroke:none"
          d="M 20,10 13,3 v 17.5 c 0,0.828427 0.671573,1.5 1.5,1.5 0.828427,0 1.5,-0.671573 1.5,-1.5 V 10 Z M 11,3.5 C 11,2.6715729 10.328427,2 9.5,2 8.671573,2 8,2.6715729 8,3.5 V 14 H 4 l 7,7 z"
          id="path3877"
          inkscape:connector-curvature="0" />

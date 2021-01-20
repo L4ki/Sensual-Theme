@@ -138,3 +138,8 @@ Icons
 
 Add folders: folder-KDE.svg, folder-Neon.svg, folder-opensuse.svg, folder-Manjaro.svg, folder-Reddit.svg. folder-Github.svg
 
+Plasma Theme
+------------
+
+Redesigned Theme
+

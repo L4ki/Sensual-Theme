@@ -125,3 +125,16 @@ Plasma Theme
 
 Fixed widget: button.svg
 
+Changelog: 20.01.2021.
+----------------------
+
+GTK-3 Theme
+-----------
+
+Correction of gtk.css file
+
+Icons
+-----
+
+Add folders: folder-KDE.svg, folder-Neon.svg, folder-opensuse.svg, folder-Manjaro.svg, folder-Reddit.svg. folder-Github.svg
+

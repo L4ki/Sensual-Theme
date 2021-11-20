@@ -17,13 +17,13 @@ Theme=Sensual-Breeze-Dark
 cursorTheme=breeze_cursors
 
 [Wallpaper]
-Image=HD NO LOGO PL1582.png
+Image=Sensual-Flat-No Logo.jpg
 
 [plasmarc][Theme]
 name=Sensual-Dark
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Sensual-Aurorae
+theme=__aurorae__svg__Sensual-Solid-Aurorae
 
 

@@ -3,7 +3,7 @@ Name=Sensual-Dark
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=l4k1987@gmail.com
 X-KDE-PluginInfo-Name=Sensual-Dark
-X-KDE-PluginInfo-Version=4.0
+X-KDE-PluginInfo-Version=5.0
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
@@ -15,3 +15,7 @@ enabled=false
 contrast=0.2
 intensity=0.4
 saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true
+

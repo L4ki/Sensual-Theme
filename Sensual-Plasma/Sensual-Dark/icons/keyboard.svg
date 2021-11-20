@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="25.078573mm"
    height="12.084998mm"
    viewBox="0 0 25.078573 12.084998"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="keyboard.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="keyboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1414" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="164.50312"
-     inkscape:cy="4.011845"
+     inkscape:cx="164.64286"
+     inkscape:cy="4.2857143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:lockguides="true"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata1417">
     <rdf:RDF>
@@ -44,7 +45,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,11 +54,11 @@
      id="layer1"
      transform="translate(81.510571,-125.92217)">
     <g
-       id="22-22-keyboard-layout"
+       id="g10"
        transform="matrix(0.01411596,0,0,0.01411596,-70.406895,124.89735)">
       <g
          transform="matrix(0.1,0,0,-0.1,0,511)"
-         id="g10">
+         id="keyboard-layout">
         <path
            d="m 4760.3,4233.8 c -343.3,-36.4 -609.9,-115.1 -897.5,-264.6 -454.5,-237.8 -767.1,-609.9 -945.5,-1123.8 -24.9,-72.9 -42.2,-136.2 -38.4,-140 1.9,-3.8 30.7,28.8 59.5,71 78.6,115.1 306.8,322.2 469.9,429.6 266.6,176.4 571.5,299.2 947.4,379.7 168.8,36.4 253.1,42.2 644.4,42.2 395.1,0 473.7,-3.8 642.5,-42.2 619.4,-136.2 1066.3,-385.5 1394.2,-776.7 49.9,-61.4 92.1,-107.4 92.1,-103.6 0,24.9 -99.7,291.5 -141.9,379.7 -326,690.4 -1010.7,1110.4 -1881.3,1154.5 -105.7,5.7 -261.1,1.8 -345.4,-5.8 z"
            id="path4"
@@ -78,10 +78,10 @@
     </g>
     <g
        transform="matrix(0.00771611,0,0,0.00771611,-81.587782,130.96058)"
-       id="keyboard-layout">
+       id="g11">
       <g
          transform="matrix(0.1,0,0,-0.1,0,511)"
-         id="g10-6">
+         id="22-22-keyboard-layot">
         <path
            inkscape:connector-curvature="0"
            d="m 4760.3,4233.8 c -343.3,-36.4 -609.9,-115.1 -897.5,-264.6 -454.5,-237.8 -767.1,-609.9 -945.5,-1123.8 -24.9,-72.9 -42.2,-136.2 -38.4,-140 1.9,-3.8 30.7,28.8 59.5,71 78.6,115.1 306.8,322.2 469.9,429.6 266.6,176.4 571.5,299.2 947.4,379.7 168.8,36.4 253.1,42.2 644.4,42.2 395.1,0 473.7,-3.8 642.5,-42.2 619.4,-136.2 1066.3,-385.5 1394.2,-776.7 49.9,-61.4 92.1,-107.4 92.1,-103.6 0,24.9 -99.7,291.5 -141.9,379.7 -326,690.4 -1010.7,1110.4 -1881.3,1154.5 -105.7,5.7 -261.1,1.8 -345.4,-5.8 z"

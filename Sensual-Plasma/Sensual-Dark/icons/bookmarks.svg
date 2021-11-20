@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="54"
    height="32"
    id="svg3613"
    version="1.1"
    sodipodi:docname="bookmarks.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,8 +28,8 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="7.2889118"
-     inkscape:cx="15.931482"
-     inkscape:cy="26.869861"
+     inkscape:cx="15.914584"
+     inkscape:cy="26.890159"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -42,10 +42,13 @@
      inkscape:snap-intersection-paths="true"
      inkscape:lockguides="true"
      showguides="false"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
-       id="grid965" />
+       id="grid965"
+       originx="-3.090475e-15"
+       originy="-1.5506744e-08" />
   </sodipodi:namedview>
   <metadata
      id="metadata13">
@@ -55,7 +58,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,39 +124,33 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient834"
-       id="linearGradient843"
-       x1="426.71432"
-       y1="537.79071"
-       x2="436.71429"
-       y2="537.79071"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient834"
        id="linearGradient845"
        gradientUnits="userSpaceOnUse"
        x1="-31.723"
        y1="16.132"
        x2="-13.723"
        y2="16.132" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient830"
+       id="linearGradient832-3"
+       x1="-37.723"
+       y1="15.132"
+       x2="-7.723"
+       y2="15.132"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66666667,0,0,0.66666667,26.148667,0.912)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient834"
+       id="linearGradient845-5"
+       gradientUnits="userSpaceOnUse"
+       x1="-31.723"
+       y1="16.132"
+       x2="-13.723"
+       y2="16.132"
+       gradientTransform="matrix(0.66666667,0,0,0.66666667,26.148667,0.912)" />
   </defs>
-  <g
-     transform="matrix(1.0000029,0,0,1.000001,-420.71555,-516.79125)"
-     id="22-22-bookmarks">
-    <rect
-       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none"
-       id="rect3028"
-       width="22"
-       height="22"
-       x="-7.1556997e-08"
-       y="2.0000052"
-       transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
-    <path
-       style="fill:url(#linearGradient843);fill-opacity:1;stroke:none"
-       d="m 426.71431,529.79072 v 1 13.99999 1 l 4.99999,-2 4.99998,2 v -1 -13.99999 -1 h -9.99997 m 1,1 h 7.99997 v 13.5996 l -3.99998,-1.59961 -3.99999,1.59961 v -13.5996"
-       id="rect4298"
-       class="ColorScheme-Text" />
-  </g>
   <g
      id="bookmarks"
      transform="translate(60.723,0.86800998)">
@@ -184,5 +180,33 @@
        inkscape:connector-curvature="0"
        d="m -26.861343,8.132 c -2.676674,0 -4.861657,2.2334 -4.861657,5 0,1.4396 0.58595,2.753 1.526759,3.6667 l 7.473241,7.3333 7.473241,-7.3333 c 0.940963,-0.91356 1.526759,-2.227 1.526759,-3.6667 0,-2.7666 -2.184983,-5 -4.861657,-5 -1.763106,0 -3.29054,0.96155 -4.138439,2.4167 -0.847832,-1.4551 -2.375237,-2.4167 -4.13844,-2.4167 z"
        id="path16" />
+  </g>
+  <g
+     id="22-22-bookmarks"
+     transform="translate(0,10)">
+    <rect
+       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none"
+       id="rect3028"
+       width="22"
+       height="22"
+       x="2.2758499e-16"
+       y="4.520874e-08" />
+    <path
+       style="color:#000000;overflow:visible;opacity:0.15;fill:url(#linearGradient832-3);fill-opacity:1;stroke-width:0.714287"
+       inkscape:connector-curvature="0"
+       d="M 11,1 C 5.482143,1 1,5.482143 1,11 1,16.517857 5.482143,21 11,21 16.517857,21 21,16.517857 21,11 21,5.482143 16.517857,1 11,1 Z"
+       overflow="visible"
+       id="path12-6" />
+    <path
+       style="color:#000000;overflow:visible;opacity:0.5;fill:none;stroke-width:0.666667"
+       inkscape:connector-curvature="0"
+       d="m 11,1.33332 c -5.333333,0 -9.666667,4.333333 -9.666667,9.666667 0,5.333333 4.333334,9.666666 9.666667,9.666666 5.333333,0 9.666667,-4.333333 9.666667,-9.666666 C 20.666667,5.666653 16.333333,1.33332 11,1.33332 Z"
+       overflow="visible"
+       id="path14-2" />
+    <path
+       style="fill:url(#linearGradient845-5);fill-opacity:1;stroke-width:0.654655"
+       inkscape:connector-curvature="0"
+       d="M 8.241105,6.333333 C 6.456655,6.333333 5,7.822267 5,9.666667 5,10.6264 5.390633,11.502 6.017839,12.111133 L 11,17 15.982161,12.111133 C 16.609469,11.502093 17,10.626467 17,9.666667 c 0,-1.8444 -1.456655,-3.333334 -3.241105,-3.333334 -1.175404,0 -2.193693,0.641034 -2.758959,1.611134 C 10.434715,6.9744 9.416445,6.333333 8.240976,6.333333 Z"
+       id="path16-9" />
   </g>
 </svg>

@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="window.svg"
    viewBox="0 0 32 32"
    version="1.1"
    height="32"
    width="32"
-   id="svg">
+   id="svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata60">
     <rdf:RDF>
@@ -29,17 +28,17 @@
   </metadata>
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:current-layer="svg"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="32.429155"
-     inkscape:cx="76.545743"
-     inkscape:zoom="32"
-     showgrid="true"
+     inkscape:cy="5.4999997"
+     inkscape:cx="46.874998"
+     inkscape:zoom="8.0000004"
+     showgrid="false"
      id="namedview58"
-     inkscape:window-height="1015"
+     inkscape:window-height="1009"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,50 +46,87 @@
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff">
+     bordercolor="#000000"
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        id="grid863"
-       type="xygrid" />
+       type="xygrid"
+       originx="-1e-06"
+       originy="-2e-06" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient5606">
+       inkscape:collect="always"
+       id="linearGradient877">
+      <stop
+         style="stop-color:#ae81ff;stop-opacity:1"
+         offset="0"
+         id="stop873" />
+      <stop
+         style="stop-color:#ae81ff;stop-opacity:0"
+         offset="1"
+         id="stop875" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5606"
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#000000"
          offset="0"
          id="stop5608" />
     </linearGradient>
     <radialGradient
-       gradientTransform="matrix(0.54927212,0,0,0.54927212,-11.736494,18.35735)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient877"
+       id="radialGradient870"
+       cx="-25.925686"
+       cy="40.785618"
+       fx="-25.925686"
+       fy="40.785618"
+       r="3.0391901"
        gradientUnits="userSpaceOnUse"
-       r="5.5331168"
-       fy="40.832741"
-       fx="-25.832743"
-       cy="40.832741"
-       cx="-25.832743"
-       id="radialGradient838"
-       xlink:href="#linearGradient836"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient836"
-       inkscape:collect="always">
-      <stop
-         id="stop832"
-         offset="0"
-         style="stop-color:#4e9fac;stop-opacity:1" />
-      <stop
-         id="stop834"
-         offset="1"
-         style="stop-color:#4e9fac;stop-opacity:1" />
-    </linearGradient>
+       gradientTransform="matrix(2.2482041,-0.01094638,0.01101835,2.2817963,33.734815,-50.780726)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient877"
+       id="radialGradient904"
+       cx="-25.925695"
+       cy="40.785618"
+       fx="-25.925695"
+       fy="40.785618"
+       r="2.7352686"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.4980059,-0.01216334,0.01224317,2.5353322,40.161177,-61.152868)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient877"
+       id="radialGradient920"
+       gradientUnits="userSpaceOnUse"
+       cx="-25.857271"
+       cy="40.998245"
+       fx="-25.857271"
+       fy="40.998245"
+       r="3.0391901"
+       gradientTransform="matrix(2.6807194,0,0,2.6875307,44.68411,-67.688337)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient877"
+       id="radialGradient934"
+       cx="-25.857271"
+       cy="40.998245"
+       fx="-25.857271"
+       fy="40.998245"
+       r="3.0391901"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.6807194,0,0,2.6875307,44.68411,-67.688337)" />
   </defs>
   <rect
      id="rect16"
-     y="13.77"
-     x="-38.33"
+     y="13.769998"
+     x="-38.329987"
      height="22"
      width="22"
      style="fill:#cfd8dc;fill-opacity:0" />
@@ -120,7 +156,7 @@
     </g>
   </g>
   <g
-     transform="translate(54,32)"
+     transform="translate(54,31.999998)"
      id="16-16-window-close">
     <rect
        id="rect27"
@@ -177,7 +213,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.61904769,0,0,0.61904769,86.506382,13.304782)"
+     transform="matrix(0.60115581,0,0,0.59905677,85.411335,14.134803)"
      id="window-pin">
     <g
        id="e"
@@ -195,17 +231,18 @@
        id="e-5"
        transform="matrix(0.7125,0,0,0.7125,-1.3937488,-2.5937493)"
        inkscape:label="">
-      <circle
-         r="2.7352686"
-         cy="40.785618"
-         cx="-25.925695"
+      <ellipse
+         cy="42.567505"
+         cx="-24.102049"
          id="path4145-9"
-         style="opacity:1;fill:#4e9fac;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient838);stroke-width:0.607843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#radialGradient870);fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient904);stroke-width:2.53026"
+         rx="6.9062643"
+         ry="6.9348974" />
     </g>
   </g>
   <g
      id="window-unpin"
-     transform="matrix(0.61904769,0,0,0.61904769,93.030202,13.294998)">
+     transform="matrix(0.60286117,0,0,0.60148606,92.920628,14.048189)">
     <g
        id="e-0"
        transform="matrix(1.1111111,0,0,1.1111111,10.755556,-20.722222)"
@@ -222,12 +259,13 @@
        id="e-5-5"
        transform="matrix(0.7125,0,0,0.7125,-1.3937488,-2.5937493)"
        inkscape:label="">
-      <circle
-         r="2.7352705"
-         cy="40.998245"
-         cx="-25.857271"
+      <ellipse
+         cy="42.49572"
+         cx="-24.631992"
          id="path4145-9-6"
-         style="opacity:1;fill:#6c6fca;fill-opacity:1;fill-rule:evenodd;stroke:#6c6fca;stroke-width:0.607839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#radialGradient934);fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient920);stroke-width:1.63157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="7.3324928"
+         ry="7.3511229" />
     </g>
   </g>
 </svg>

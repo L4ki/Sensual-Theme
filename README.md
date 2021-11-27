@@ -138,8 +138,25 @@ Icons
 
 Add folders: folder-KDE.svg, folder-Neon.svg, folder-opensuse.svg, folder-Manjaro.svg, folder-Reddit.svg. folder-Github.svg
 
+Changelog: 20.11.2021.
+---------------------
+
 Plasma Theme
 ------------
 
 Redesigned Theme
+
+
+Changelog: 27.11.2021.
+---------------------
+
+Plasma Theme
+------------
+
+Fixed widget: redshift.svg
+
+Icons
+-----
+
+Added new icons: actions (22)
 

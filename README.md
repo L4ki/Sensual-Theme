@@ -160,3 +160,11 @@ Icons
 
 Added new icons: actions (22)
 
+Changelog: 04.12.2021.
+---------------------
+
+Plasma Theme
+------------
+
+Fixed widget: busywidget.svg
+

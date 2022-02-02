@@ -168,3 +168,16 @@ Plasma Theme
 
 Fixed widget: busywidget.svg
 
+Changelog: 02.02.2022.
+---------------------
+
+Icons
+-----
+
+Update system-file-manager.svg (apps)
+
+Plasma Theme
+------------
+Redesigned Plasma Theme
+
+

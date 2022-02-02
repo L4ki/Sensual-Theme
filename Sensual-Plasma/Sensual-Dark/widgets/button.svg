@@ -30,11 +30,11 @@
        inkscape:collect="always"
        id="linearGradient5163">
       <stop
-         style="stop-color:#36797c;stop-opacity:1"
+         style="stop-color:#4e9fac;stop-opacity:1"
          offset="0"
          id="stop5159" />
       <stop
-         style="stop-color:#36797c;stop-opacity:0"
+         style="stop-color:#4e9fac;stop-opacity:0.004"
          offset="1"
          id="stop5161" />
     </linearGradient>
@@ -161,13 +161,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1015"
      id="namedview317"
      showgrid="false"
      inkscape:current-layer="svg2"
      inkscape:zoom="2.9799501"
-     inkscape:cx="163.08998"
-     inkscape:cy="148.32463"
+     inkscape:cx="169.13035"
+     inkscape:cy="118.96172"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -350,15 +350,15 @@
      y="40" />
   <g
      id="normal-center"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        d="m 180,68 h 22 v 22 h -22 z"
        class="ColorScheme-ButtonBackground"
        fill-rule="evenodd"
        id="path34"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <rect
-       style="opacity:0.01;fill:#232639;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1;fill-rule:evenodd"
        id="c"
        width="22"
        height="22"
@@ -369,20 +369,20 @@
      id="normal-bottomleft"
      transform="translate(174,66)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect833-7-3"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="path915"
        d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
-       style="opacity:0.01;fill:#232639;fill-opacity:1"
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
        id="bl" />
   </g>
@@ -390,69 +390,69 @@
      id="normal-bottom"
      transform="translate(176,66)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect829-6"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="rect829-6-2"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <rect
        y="28"
        x="4"
        height="2"
        width="22"
        id="b"
-       style="opacity:0.01;fill:#232639;fill-opacity:1;fill-rule:evenodd" />
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1;fill-rule:evenodd" />
   </g>
   <g
      id="normal-topleft"
      transform="matrix(1,0,0,-1,174,92)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect833-7-3-1"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="path915-2"
        d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="tl"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="opacity:0.01;fill:#232639;fill-opacity:1" />
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1" />
   </g>
   <g
      id="normal-top"
      transform="matrix(1,0,0,-1,176,92)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect829-6-0"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="rect829-6-2-9"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <rect
-       style="opacity:0.01;fill:#232639;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1;fill-rule:evenodd"
        id="t"
        width="22"
        height="2"
@@ -464,20 +464,20 @@
      id="normal-topright"
      transform="matrix(0,1,1,0,178,62)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect833-7-3-6"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="path915-0"
        d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
-       style="opacity:0.01;fill:#232639;fill-opacity:1"
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1"
        d="M 2,30 C 0.892,30 0,29.108 0,28 h 2 z"
        id="tr" />
   </g>
@@ -485,70 +485,70 @@
      id="normal-right"
      transform="matrix(0,1,1,0,178,64)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect829-6-26"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="rect829-6-2-1"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <rect
        y="4"
        x="28"
        height="22"
        width="2"
        id="r"
-       style="opacity:0.01;fill:#232639;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1;fill-rule:evenodd"
        transform="matrix(0,1,1,0,0,0)" />
   </g>
   <g
      id="normal-bottomright"
      transform="matrix(-1,0,0,1,208,66)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect833-7-3-7"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="path915-9"
        d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="br"
        d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="opacity:0.01;fill:#232639;fill-opacity:1" />
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1" />
   </g>
   <g
      id="normal-left"
      transform="rotate(90,70,134)"
      fill-rule="evenodd"
-     style="opacity:0.5;fill:#232639;fill-opacity:1">
+     style="opacity:0.52317425;fill:#3b4060;fill-opacity:1">
     <path
        id="rect829-6-26-0"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
        class="ColorScheme-ButtonBackground"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <path
        id="rect829-6-2-1-2"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#232639;fill-opacity:1" />
+       style="fill:#3b4060;fill-opacity:1" />
     <rect
-       style="opacity:0.01;fill:#232639;fill-opacity:1;fill-rule:evenodd"
+       style="opacity:0.01;fill:#3b4060;fill-opacity:1;fill-rule:evenodd"
        id="l"
        width="2"
        height="22"
@@ -557,22 +557,22 @@
        transform="rotate(-90)" />
   </g>
   <path
-     style="stroke-width:0.999996;fill:#232639;fill-opacity:1;opacity:0.01"
+     style="stroke-width:0.999996;fill:#3b4060;fill-opacity:1;opacity:0.52317425"
      id="normal-hint-top-margin"
      d="m 190,62 h 2 v 6 h -2 z"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#232639;fill-opacity:1;opacity:0.01"
+     style="stroke-width:0.999996;fill:#3b4060;fill-opacity:1;opacity:0.52317425"
      id="normal-hint-bottom-margin"
      d="m 190,90 h 2 v 6 h -2 z"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#232639;fill-opacity:1;opacity:0.01"
+     style="stroke-width:0.999996;fill:#3b4060;fill-opacity:1;opacity:0.52317425"
      id="normal-hint-left-margin"
      d="m 174,78 h 6 v 2 h -6 z"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#232639;fill-opacity:1;opacity:0.01"
+     style="stroke-width:0.999996;fill:#3b4060;fill-opacity:1;opacity:0.52317425"
      id="normal-hint-right-margin"
      d="m 202,78 h 6 v 2 h -6 z"
      fill-rule="evenodd" />
@@ -1339,14 +1339,14 @@
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#4e9fac;fill-opacity:1;opacity:0.01" />
+       style="opacity:0.01;fill:#4e9fac;fill-opacity:1" />
     <path
        id="rect829-6-2-9-2-7"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#4e9fac;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#4e9fac;fill-opacity:1" />
   </g>
   <g
      id="pressed-topright"
@@ -1375,14 +1375,14 @@
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#4e9fac;fill-opacity:1;opacity:0.01" />
+       style="opacity:0.01;fill:#4e9fac;fill-opacity:1" />
     <path
        id="rect829-6-2-1-3-9"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
        class="ColorScheme-ButtonText"
        opacity="0.3"
-       style="fill:#4e9fac;fill-opacity:1;opacity:1" />
+       style="opacity:1;fill:#4e9fac;fill-opacity:1" />
   </g>
   <g
      id="pressed-bottomright"
@@ -1841,72 +1841,72 @@
      d="m 242,178 v 3 h 22 v -3 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-topleft"
      d="m 241,178 c -1.662,0 -3,1.338 -3,3 h 3 v -2 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-center"
      d="m242 182h22v22h-22z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-bottom"
      d="m 264,208 v -3 h -22 v 3 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-bottomright"
      d="m 265,208 c 1.662,0 3,-1.338 3,-3 h -3 v 2 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-right"
      d="m 268,182 h -3 v 22 h 3 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-topright"
      d="m 268,181 c 0,-1.662 -1.338,-3 -3,-3 v 3 h 2 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-left"
      d="m 238,204 h 3 v -22 h -3 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
      id="toolbutton-pressed-bottomleft"
      d="m 238,205 c 0,1.662 1.338,3 3,3 v -3 h -2 z"
      class="ColorScheme-ButtonHover"
      fill-rule="evenodd"
-     style="fill:#4e51ac;fill-opacity:0.69999999" />
+     style="fill:#8486c7;fill-opacity:0.2;opacity:1" />
   <path
-     style="stroke-width:0.999996;fill:#4e51ac;opacity:0.01;fill-opacity:0.69999999"
+     style="stroke-width:0.999996;fill:#8486c7;opacity:1;fill-opacity:0.2"
      id="toolbutton-pressed-hint-top-margin"
      d="m 252,178 h 2 v 4 h -2 z"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#4e51ac;opacity:0.01;fill-opacity:0.69999999"
+     style="stroke-width:0.999996;fill:#8486c7;opacity:1;fill-opacity:0.2"
      id="toolbutton-pressed-hint-bottom-margin"
      d="m 252,204 h 2 v 4 h -2 z"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#4e51ac;opacity:0.01;fill-opacity:0.69999999"
+     style="stroke-width:0.999996;fill:#8486c7;opacity:1;fill-opacity:0.2"
      id="toolbutton-pressed-hint-left-margin"
      d="m 238,192 h 4 v 2 h -4 z"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#4e51ac;opacity:0.01;fill-opacity:0.69999999"
+     style="stroke-width:0.999996;fill:#8486c7;opacity:1;fill-opacity:0.2"
      id="toolbutton-pressed-hint-right-margin"
      d="m 264,192 h 4 v 2 h -4 z"
      fill-rule="evenodd" />

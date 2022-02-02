@@ -171,6 +171,11 @@ Fixed widget: busywidget.svg
 Changelog: 02.02.2022.
 ---------------------
 
+Colorscheme
+-----------
+
+Correction of some colors 
+
 Icons
 -----
 

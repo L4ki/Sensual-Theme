@@ -18,7 +18,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1011"
+     inkscape:window-height="1015"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -31,7 +31,7 @@
      id="base"
      inkscape:zoom="8.8388344"
      inkscape:cx="22.627418"
-     inkscape:cy="35.072498"
+     inkscape:cy="35.129066"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -2105,14 +2105,14 @@
      id="focus-bottom"
      transform="matrix(1,0,0,-1,-5.2599625,47.121318)">
     <rect
-       style="fill:url(#linearGradient19996);fill-opacity:1;stroke:none;opacity:0"
+       style="opacity:0;fill:url(#linearGradient19996);fill-opacity:1;stroke:none"
        id="rect5291"
        width="27"
        height="4.0005374"
        x="16.292894"
        y="3.1207829" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:1"
+       style="opacity:1;fill:#696de6;fill-opacity:1;stroke:none"
        id="rect5293"
        width="27"
        height="1"

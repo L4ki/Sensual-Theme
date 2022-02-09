@@ -185,4 +185,17 @@ Plasma Theme
 ------------
 Redesigned Plasma Theme
 
+Changelog: 09.02.2022.
+---------------------
+
+Icons
+-----
+
+Added new icons: status (24)
+
+Plasma Theme
+------------
+
+Update widget: clock.svg
+
 

@@ -198,4 +198,18 @@ Plasma Theme
 
 Update widget: clock.svg
 
+Changelog: 16.02.2022.
+---------------------
+
+Icons
+-----
+
+Dark Icons: Added new icons applets (256)
+
+Light Icons: Added new icons devices
+
+Plasma Theme
+------------
+
+Update icon: window.svg
 
